@@ -1,0 +1,7 @@
+19:24:22,809 INFO  [f.p.e.c.f.c.BootstrapChecks] Memory [Free/Total=Percent]: HEAP [89.4mb/1.8gb=4.68%], RAM [1002.4mb/7.4gb=13.11%], Swap [2gb/15gb=13.41%].
+19:24:31,590 INFO  [f.p.e.c.f.FsCrawlerImpl] Starting FS crawler
+19:24:31,590 INFO  [f.p.e.c.f.FsCrawlerImpl] FS crawler started in watch mode. It will run unless you stop it with CTRL+C.
+19:24:40,144 INFO  [f.p.e.c.f.c.ElasticsearchClient] Elasticsearch Client connected to a node running version 7.17.5
+19:24:40,249 INFO  [f.p.e.c.f.c.ElasticsearchClient] Elasticsearch Client connected to a node running version 7.17.5
+19:25:12,264 INFO  [f.p.e.c.f.FsParserAbstract] FS crawler started for [resumes] for [c:\2022] every [15m]
+19:25:15,210 INFO  [f.p.e.c.f.t.TikaInstance] OCR is disabled.
